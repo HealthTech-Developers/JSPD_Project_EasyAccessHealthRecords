@@ -1,0 +1,2 @@
+# JSPD_Project_EasyAccessHealthRecords
+Android Application Integrating healthcare records information systems
